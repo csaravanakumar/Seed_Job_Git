@@ -6,3 +6,7 @@ stage('Check Status') {
 stage('Odd or Even') {
     oddoreven()
 }
+stage('Odd or Even') {
+    echo "seed_job_sample"
+}
+

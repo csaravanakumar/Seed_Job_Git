@@ -12,3 +12,6 @@ stage('Odd or Even') {
 stage('src test 7.8.20') {
  standardPipeline()
 }
+stage('common') {
+ common()
+}

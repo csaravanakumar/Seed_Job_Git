@@ -9,6 +9,6 @@ stage('Odd or Even') {
 stage('Odd or Even') {
     echo "seed_job_sample"
 }
-stage('src test') {
+stage('src test 7.8.20') {
  standardPipeline()
 }

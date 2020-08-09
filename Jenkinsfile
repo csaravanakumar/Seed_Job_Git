@@ -15,6 +15,6 @@ stage('src test 7.8.20') {
 stage('common') {
  common()
 }
-stage('common') {
+stage('date and time') {
  date_time()
 }
